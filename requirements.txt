@@ -1,0 +1,17 @@
+# Machine Learning & Deep Learning
+tensorflow>=2.8
+
+# Data Manipulation & Analysis
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook (for .ipynb files)
+notebook
+
+# Optional: Progress bar for notebooks/scripts
+tqdm
